@@ -1,3 +1,6 @@
+# nelabai pabaigtas chess engine naudojimui kaip sperai naujam chess engine
+neisivaizduoju ka as prirasiau pries puse metu
+
 ### Files
 * `deprecated_eval` pries tai buvusi eval versija db nenaudojama
 * `deprecated_move_gen` pries tai buvusi move_gen versija db nenaudojama
