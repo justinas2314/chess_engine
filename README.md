@@ -11,3 +11,5 @@ Norint parinkti ar žaisti su baltomis, ar juodomis figūromis, galima arba keis
 * Nesistengiau, kad kodas būtų aiškus skaitytojui, kuriam nepaaiškinau ką kuri vieta daro
 * Pozicijos įvertinimo euristiką ir svorius, sudariau naudodamasis sveiku protu bei taisydamas, kai variklis padarydavo keistą ėjimą (priešingai negu tam tikras 1 vietos laimėjojas >:c)
 * Dalis values sugeneruota automatiškai su python scriptais, kita dalis su keybinds, nesu psichopatas
+* Laiko management ant lėtesnių kompiuterių prastesnis nei tikėjausi (rašant testavau tik ant vieno PC)
+* Kodas labai nesaugus, tačiau taip buvo įdomiau rašyti
