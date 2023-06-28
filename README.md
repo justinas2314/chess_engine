@@ -2,7 +2,7 @@
 Nekeistas ktug chess bot konkurse dalyvavusio chess engine kodas  
 ### Naudojimas
 Sukompiliuoti su rust, žaidimui naudoti [šį interface](https://github.com/HollaFoil/KTUG-ChessBot)  
-Norint parinkti ar žaisti su baltomis, ar juodomis figūromis, galima arba keisti pusę nustatančias konstantas, arba command line arguments parašyti white/black
+Norint parinkti ar žaisti su baltomis, ar juodomis figūromis, galima arba keisti pusę nustatančias konstantas (`main.rs`), arba command line arguments parašyti white/black
 ### Pastabos
 * Tyčia nenaudojau magic bitboardų ir panašių ėjimų generavimo optimizacijų, nes užsibrėžiau tikslą reusinti savo seną, prieš kelis metus rašytą, kodą
 * Variklis nuvertina toli nuėjusius pėstininkus ir yra kitų vietų, kur galima variklį padaryti stipresniu pakeičiant konstantas `evaluation_function.rs`, tačiau koda palieku tokį, koks dalyvavo konkurse
